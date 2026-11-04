@@ -1,0 +1,1 @@
+{"trace_id": "f629383b-de1d-43a4-b63f-8002a38d33c0", "timestamp": "2026-11-04T10:31:01.141171", "query": "What is the status of APP-1234?", "response": "Mock LLM Response: Application is in Screening.", "response_time_ms": 1.001}

@@ -11,7 +11,7 @@ def generate_job_applications(num_records=40, seed_value=42):
     priority_weights = [0.20, 0.80] 
     
     dataset = []
-    
+
     # Pre-populate to guarantee minimum counts:
     # 3 of each category (15 records)
     for cat in categories:
